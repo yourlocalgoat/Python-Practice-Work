@@ -42,3 +42,4 @@ import Python_Practice
 AnyPlot = Python_Practice.EP()
 AnyPlot.equation1(2,0.5,5)
 AnyPlot.equation2(2,0.5,0.2,1.3,5)
+print('GitHuub')
